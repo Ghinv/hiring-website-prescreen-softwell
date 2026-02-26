@@ -128,7 +128,7 @@ body {
 .positions h2,
 .process h2 {
   display: block;
-  width: 70%;
+  width: auto;
   font-size: 4rem;
   font-weight: 800;
   text-align: center;
