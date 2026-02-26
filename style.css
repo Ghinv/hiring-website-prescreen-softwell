@@ -129,7 +129,7 @@ body {
 .process h2 {
   display: block;
   width: auto;
-  font-size: minmax(2.5rem, 6vw);
+  font-size: minmax(3.5rem, 6vw);
   font-weight: 800;
   text-align: center;
   margin: 0 auto 48px auto;
